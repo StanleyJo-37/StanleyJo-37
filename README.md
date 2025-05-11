@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👩🏻‍💻 I’m currently working as a Full-Stack Developer in GreatNusa<br>🌱 I’m currently learning IoT, Full-Stack Development, Artificial Intelligence<br>📓 I'm currently studying in Binus University
+👩🏻‍💻 I’m currently working as a Full-Stack Developer in GreatNusa<br>🌱 I’m currently learning IoT, Full-Stack Development, Artificial Intelligence<br>📓 I'm currently studying Computer Science in Binus University
 
 ## 🌐 Socials:
 
